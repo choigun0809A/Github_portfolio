@@ -38,6 +38,9 @@ Built with **Python** and **Pygame**.
 A website for testing kids’ and adults’ intelligence, based on Howard Gardner’s Multiple Intelligences theory.  
 Built with **Python** and **Flask**.
 
+**a link to the website**: 
+choistest.onrender.com 
+
 > **Game Development** <
 
 
