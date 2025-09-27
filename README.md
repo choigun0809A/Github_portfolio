@@ -1,7 +1,8 @@
 ##########               Hi!                 ##########
 ##########  WELCOME TO MY PROJECTS LIBRARY!  ##########
 
-> AI Projects <
+> **AI Projects** <
+
 
 ![Snake](./imgs/snake.gif)
 
@@ -25,7 +26,9 @@ Built with **Python**, **PyTorch**, and **Pygame**.
 An upgraded Snake AI with batched training, trained using SmoothL1Loss and a reward system.
 Built with **Python**, **PyTorch**, and **Pygame**.
 
-> Education <
+> **Education** <
+
+
 ![intelligence](./imgs/intelligence.gif)
 
 #########  Project_X ⭐
@@ -36,7 +39,9 @@ Built with **Python** and **Pygame**.
 A website for testing kids’ and adults’ intelligence, based on Howard Gardner’s Multiple Intelligences theory.  
 Built with **Python** and **Flask**.
 
-> Game Development <
+> **Game Development** <
+
+
 ![game](./imgs/game.gif)
 
 #########  buuz
@@ -71,7 +76,8 @@ Built with **Python** and **Pygame**.
 Another multi-level pixel shooter with unique twists.
 Built with **Python** and **Pygame**.
 
-> Robotics <
+> **Robotics** <
+
 
 ![Robot arm](./imgs/robot_arm.jpg)
 
