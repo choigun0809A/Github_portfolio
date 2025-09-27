@@ -26,6 +26,7 @@ An upgraded Snake AI with batched training, trained using SmoothL1Loss and a rew
 Built with **Python**, **PyTorch**, and **Pygame**.
 
 > Education <
+![intelligence](./imgs/intelligence.gif)
 
 #########  Project_X ⭐
 A game created to help kids learn morse code.
@@ -36,6 +37,7 @@ A website for testing kids’ and adults’ intelligence, based on Howard Gardne
 Built with **Python** and **Flask**.
 
 > Game Development <
+![game](./imgs/game.gif)
 
 #########  buuz
 A game created to present to the parents of my school.
