@@ -3,6 +3,8 @@
 
 > AI Projects <
 
+![AI snake](imgs/ai_snake.webm)
+
 #########  AI_dev_1
 A prototype transformer chatbot model trained with CrossEntropyLoss and batched training.
 Built with **C++**, **CMake**, and **LibTorch**.
@@ -34,6 +36,8 @@ A website for testing kids’ and adults’ intelligence, based on Howard Gardne
 Built with **Python** and **Flask**.
 
 > Game Development <
+
+![Demo graphic](imgs/game.mp4)
 
 #########  buuz
 A game created to present to the parents of my school.
@@ -68,6 +72,8 @@ Another multi-level pixel shooter with unique twists.
 Built with **Python** and **Pygame**.
 
 > Robotics <
+
+![Robot arm](imgs/robot_arm.jpg)
 
 #########  Robot_hand_v1  ⭐
 A robotic arm controller with separate modules for C++ and Python.
