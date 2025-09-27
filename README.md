@@ -3,6 +3,8 @@
 
 > AI Projects <
 
+![Snake](./imgs/snake.gif)
+
 #########  AI_dev_1
 A prototype transformer chatbot model trained with CrossEntropyLoss and batched training.
 Built with **C++**, **CMake**, and **LibTorch**.
