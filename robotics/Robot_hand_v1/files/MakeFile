@@ -1,0 +1,8 @@
+CXX = g++
+CXXFLAGS = -std=c++17 -Wall -I"C:/msys64/mingw64/include" -L"C:/msys64/mingw64/lib"
+LIBS = -lraylib
+TARGET = game.exe
+SRC = birds.cpp
+
+all:
+	$(CXX) $(CXXFLAGS) $(SRC) -o $(TARGET) $(LIBS)
