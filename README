@@ -7,11 +7,11 @@
 A prototype transformer chatbot model trained with CrossEntropyLoss and batched training.
 Built with **C++**, **CMake**, and **LibTorch**.
 
-#########  AI_dev_2
+#########  AI_dev_2  ⭐
 An improved prototype transformer chatbot model trained with CrossEntropyLoss.
 Built with **C++**, **CMake**, and **LibTorch**.
 
-#########  ai_number_detector
+#########  ai_number_detector  ⭐
 A simple linear model for digit recognition, trained with CrossEntropyLoss and batched training.
 Built with **Python**, **PyTorch**, and **Pygame**.
 
@@ -19,9 +19,19 @@ Built with **Python**, **PyTorch**, and **Pygame**.
 A simple linear model that learns to play Snake, trained with SmoothL1Loss and a reward system.
 Built with **Python**, **PyTorch**, and **Pygame**.
 
-#########  ai_snake_v2
+#########  ai_snake_v2  ⭐
 An upgraded Snake AI with batched training, trained using SmoothL1Loss and a reward system.
 Built with **Python**, **PyTorch**, and **Pygame**.
+
+> Education <
+
+#########  Project_X ⭐
+A game created to help kids learn morse code.
+Built with **Python** and **Pygame**.
+
+#########  coffe_vibe_MIQ-main ⭐
+A website for testing kids’ and adults’ intelligence, based on Howard Gardner’s Multiple Intelligences theory.  
+Built with **Python** and **Flask**.
 
 > Game Development <
 
@@ -33,7 +43,7 @@ Built with **Python** and **Pygame**.
 My very first game.
 Built with **Python** and **Pygame**.
 
-#########  gravity_falls (v1–v3)
+#########  gravity_falls (v1–v3)  ⭐
 Inspired by *Level Devil*, this platformer is designed to be as frustratingly difficult as possible.
 Built with **Python** and **Pygame**.
 
@@ -53,14 +63,16 @@ Built with **Python** and **Pygame**.
 A multi-level shooter where you fire pixels and dodge enemy attacks.
 Built with **Python** and **Pygame**.
 
-#########  Tower of Greens
+#########  Tower of Greens  ⭐
 Another multi-level pixel shooter with unique twists.
 Built with **Python** and **Pygame**.
 
 > Robotics <
 
-#########  Robot_hand_v1
+#########  Robot_hand_v1  ⭐
 A robotic arm controller with separate modules for C++ and Python.
 
-#########  Robot_hand_v2
+#########  Robot_hand_v2  ⭐
 A robotic arm controller implemented entirely in **Go**.
+
+

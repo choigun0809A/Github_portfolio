@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Results</title>
+  
+  <link rel="stylesheet" href="static/results.css">
+  
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="static/favicon.ico">
+
+</head>
+<body>
+  <!-- Floating Emoji Layer -->
+  <div class="floating-emoji">
+    <div class="emoji">☕</div>
+    <div class="emoji">🍃</div>
+    <div class="emoji">📚</div>
+    <div class="emoji">🍪</div>
+    <div class="emoji">🍩</div>
+  </div>
+
+  <div class="intro">
+    <h1>☕ Here are your results!</h1>
+    <p>
+      You've made it through, nicely done! Take a moment, sip some coffee, and review what you’ve got.  
+    </p>
+  </div>
+
+  <div class="results-container">
+    {% if result %}
+      {{ result|safe }}
+    {% endif %}
+  </div>
+
+  <div class="link-box">
+    <a href="https://coff.ee/choigun" target="_blank">Buy me a coffee!</a>
+  </div>
+</body>
+</html>
