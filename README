@@ -3,7 +3,7 @@
 
 > AI Projects <
 
-![AI snake](imgs/ai_snake.webm)
+![AI snake](./imgs/ai_snake.webm)
 
 #########  AI_dev_1
 A prototype transformer chatbot model trained with CrossEntropyLoss and batched training.
@@ -37,7 +37,7 @@ Built with **Python** and **Flask**.
 
 > Game Development <
 
-![Demo graphic](imgs/game.mp4)
+![Demo graphic](./imgs/game.mp4)
 
 #########  buuz
 A game created to present to the parents of my school.
@@ -73,7 +73,7 @@ Built with **Python** and **Pygame**.
 
 > Robotics <
 
-![Robot arm](imgs/robot_arm.jpg)
+![Robot arm](./imgs/robot_arm.jpg)
 
 #########  Robot_hand_v1  ⭐
 A robotic arm controller with separate modules for C++ and Python.
