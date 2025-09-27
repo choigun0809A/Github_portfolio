@@ -1,0 +1,3 @@
+/home/choigun/Desktop/cpp_projects/AI_dev_1/build/CMakeFiles/r.dir
+/home/choigun/Desktop/cpp_projects/AI_dev_1/build/CMakeFiles/edit_cache.dir
+/home/choigun/Desktop/cpp_projects/AI_dev_1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/choigun/Desktop/cpp_projects/AI_dev_1/build",
+  "command": "/usr/bin/g++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/choigun/libs/libtorch/include -isystem /home/choigun/libs/libtorch/include/torch/csrc/api/include -g -std=gnu++17 -o CMakeFiles/r.dir/main.cpp.o -c /home/choigun/Desktop/cpp_projects/AI_dev_1/main.cpp",
+  "file": "/home/choigun/Desktop/cpp_projects/AI_dev_1/main.cpp",
+  "output": "CMakeFiles/r.dir/main.cpp.o"
+}
+]
