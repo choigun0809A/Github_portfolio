@@ -1,4 +1,3 @@
-##########               Hi!                 ##########
 ##########  WELCOME TO MY PROJECTS LIBRARY!  ##########
 
 > **AI Projects** <
@@ -45,11 +44,11 @@ Built with **Python** and **Flask**.
 ![game](./imgs/game.gif)
 
 #########  buuz
-A game created to present to the parents of my school.
+A game created to present to the parents of my school. It has a plant, that appears randomly, that tries to eat the player while he tries to collect a food called "buuz".
 Built with **Python** and **Pygame**.
 
 #########  chaser
-My very first game.
+My very first game. The player tries to collect coins while a red dot tries to catch him. The player can also teleport with a cooldown of 10 seconds.
 Built with **Python** and **Pygame**.
 
 #########  gravity_falls (v1–v3)  ⭐
@@ -82,9 +81,11 @@ Built with **Python** and **Pygame**.
 ![Robot arm](./imgs/robot_arm.jpg)
 
 #########  Robot_hand_v1  ⭐
-A robotic arm controller with separate modules for C++ and Python.
+A robotic arm built from scratch using 3d printers, arduino Uno, bread boards, batteries. 
+Build with **C++** and **Python**.
 
 #########  Robot_hand_v2  ⭐
-A robotic arm controller implemented entirely in **Go**.
+A robotic arm built from scratch using 3d printers, arduino Uno, bread boards, batteries. 
+Build with only **Go**.
 
 
