@@ -81,7 +81,7 @@ Built with **Python** and **Pygame**.
 > **Robotics** <
 
 
-![Robot arm](./imgs/robot_arm.jpg)
+![Robot arm](./imgs/robot.gif)
 
 #########  Robot_hand_v1  ⭐
 A robotic arm built from scratch using 3d printers, arduino Uno, bread boards, batteries. 
