@@ -6,23 +6,31 @@
 ![Snake](./imgs/snake.gif)
 
 #########  AI_dev_1
-A prototype transformer chatbot model trained with CrossEntropyLoss and batched training.
+A prototype transformer chatbot model.
 Built with **C++**, **CMake**, and **LibTorch**.
 
 #########  AI_dev_2  ⭐
-An improved prototype transformer chatbot model trained with CrossEntropyLoss.
+An improved prototype transformer chatbot model.
 Built with **C++**, **CMake**, and **LibTorch**.
 
 #########  ai_number_detector  ⭐
-A simple linear model for digit recognition, trained with CrossEntropyLoss and batched training.
+A simple linear model for digit recognition.
 Built with **Python**, **PyTorch**, and **Pygame**.
 
 #########  ai_snake
-A simple linear model that learns to play Snake, trained with SmoothL1Loss and a reward system.
+A simple linear model that learns to play Snake.
 Built with **Python**, **PyTorch**, and **Pygame**.
 
 #########  ai_snake_v2  ⭐
-An upgraded Snake AI with batched training, trained using SmoothL1Loss and a reward system.
+An upgraded Snake AI.
+Built with **Python**, **PyTorch**, and **Pygame**.
+
+#########  AI_DEV_maze  ⭐
+A 2d path finder AI.
+Built with **Python**, **PyTorch**, and **Pygame**.
+
+#########  AI_DEV_product_manager  ⭐
+This is a AI product manager trained by reinforced learning.
 Built with **Python**, **PyTorch**, and **Pygame**.
 
 > **Education** <
